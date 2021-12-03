@@ -1,5 +1,5 @@
 ## StockPriceAnalysis
-![ImageBanner]()
+![ImageBanner](https://github.com/DataScientist-shrashetty/StockPriceAnalysis/blob/main/download%20(1).jpg)
 Stock Market Data Visualization and Analysis. Here will create trading strategies and analyze the performance, the cumulative returns, drawdown plot, different ratios.
 
 ### Source:
